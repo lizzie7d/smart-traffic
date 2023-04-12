@@ -8,7 +8,12 @@ import MainPage from "./pages/main";
 function App() {
   return (
     <div className="App">
+      {/* <header className="App-header"></header>
+      <content className="App-content">
+        <MainPage />
+      </content> */}
       <MainPage />
+      {/* 13123213123 */}
     </div>
     // </div>
   );
